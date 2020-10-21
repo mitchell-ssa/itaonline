@@ -11,7 +11,7 @@ function Header () {
           <div>
             <span>Menu</span>
             <span>Avatar</span>
-            <button>Quero Anunciar!</button>
+            <button>Quero Anunciar!!!</button>
           </div>
         </div>
       </header>
